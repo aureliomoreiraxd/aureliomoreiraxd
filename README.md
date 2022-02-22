@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aureliomoreiraxd
-- 👀 I’m interested in aprender e  evoluir  em java
+- 👀 I’m interested in learn and evolve in java
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on que eu puder
-- 📫 How to reach me  , meu discord HIDEKIAKIRA#338
+- 💞️ I’m looking to collaborate on that I can
+- 📫 How to reach me  , my discord HIDEKIAKIRA#338
 
 <!---
 aureliomoreiraxd/aureliomoreiraxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
